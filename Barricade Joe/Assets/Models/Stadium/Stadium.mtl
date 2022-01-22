@@ -1,0 +1,8 @@
+newmtl Grey
+Kd 0.6980392 0.7450981 0.764706
+d 1
+
+newmtl ProBuilder_Default_URP
+Kd 1.0 1.0 1.0
+d 1.0
+
